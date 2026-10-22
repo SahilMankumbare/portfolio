@@ -6,6 +6,6 @@ A modern, responsive portfolio website showcasing 2+ years of cloud engineering 
 
 **Quick Start:** Clone repo → Open index.html → Or deploy to GitHub Pages/Netlify/Vercel
 
-**Contact:** Email - sahilmankumbare1@gmail.com | LinkedIn - linkedin.com/in/sahil-mankumbare-2882a6214 | GitHub - github.com/SahilMankumbare
+**Contact:** Email - sahilmankumbare11@gmail.com | LinkedIn - linkedin.com/in/sahil-mankumbare-2882a6214 | GitHub - github.com/SahilMankumbare
 
 **License:** MIT - Feel free to fork and customize for your own portfolio!
